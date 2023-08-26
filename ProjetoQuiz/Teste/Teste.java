@@ -1,4 +1,5 @@
-package QuizProject;
+package ProjetoQuiz.Teste;
+import ProjetoQuiz.Modelo.LogicaJogo;
 
 public class Teste {
     public static void main(String[] args) {
