@@ -1,4 +1,4 @@
-package QuizProject;
+package ProjetoQuiz.Modelo;
 import javax.swing.*;
 
 public class Questoes{
